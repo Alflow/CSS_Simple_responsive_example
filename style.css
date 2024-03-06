@@ -62,7 +62,7 @@ footer h2{
     border-radius: 0.5rem;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 1024px) {
     aside{
         display: block;
     }
